@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "AssocAFC"]
 	path = AssocAFC
 	url = https://github.com/cran/AssocAFC
-	shallow = true
-	registered = true
 [submodule "BigQuic"]
 	path = BigQuic
 	url = https://github.com/cran/BigQuic
-	shallow = true
-	registered = true
 [submodule "famSKATRC"]
 	path = famSKATRC
 	url = https://github.com/cran/famSKATRC
-	shallow = true
-	registered = true

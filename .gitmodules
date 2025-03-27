@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "AssocAFC"]
-	path = AssocAFC
-	url = https://github.com/cran/AssocAFC
 [submodule "BigQuic"]
 	path = BigQuic
 	url = https://github.com/cran/BigQuic
